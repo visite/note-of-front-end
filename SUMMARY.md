@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
- 1. [test](前端学习路径.md)
+ 1. [前端学习资料](前端学习路径.md)
 
 
 
