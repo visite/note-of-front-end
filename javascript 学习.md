@@ -1,4 +1,4 @@
-前端学习资料
+
 
 
 #目录
@@ -48,6 +48,51 @@
 * NodeJS
 * 自动化构建工具
 
+
+##HTML部分
+
+* 对HTML5的理解，Web语义化，SEO
+* 页面加载的过程 
+* 结构组织
+* 新增API 如本地存储、Canvas
+
+##CSS部分
+
+* 经典的圣杯布局
+* CSS3 transition transform animate
+* w3c盒子模型 和 IE盒子模型，box-sizing属性
+* BFC
+* 优先级
+* less 与 sass
+* background-* 系列属性，这个不要忽视了，还是很重要的
+
+##JS部分
+
+* 原型 闭包
+* 声明提升
+* 基本数据类型
+* 高阶函数
+* JSON
+* JSONP 跨域 iframe 通信
+* Ajax
+* 原生DOM操作（比如 逆序DOM节点）
+* 事件捕捉，捕获，冒泡，代理
+* Array常用函数
+* String常用函数
+* ES5 + ES6
+* 框架部分（大部分按照简历来）
+* Angular脏检查机制
+* 手写Angular指令，知道其生命周期
+* 手动实现MVC（考察
+* 衍生部分
+* HTTP1/2 理解、状态码、优化、缓存控制（必考）
+* TCP三次握手，四次挥手
+* XSS与CSRF（必考）
+* 学习经历和方法
+* 性能优化
+* 单元测试
+* React + Redux
+
 ##<a id="web2"></a>前端开发规范手册
 
 * [Introduction | 前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html)
@@ -62,7 +107,7 @@
  * [CSS深入理解之margin教程-慕课网](http://www.imooc.com/learn/680)(CSS深入理解系列看一下）
  
  
- * [css中的那些布局 - 验证码有误 - SegmentFault](https://segmentfault.com/a/1190000005986314)
+ * [CSS中的那些布局 ](https://segmentfault.com/a/1190000005986314)
  
 * [CSS 禅意花园: CSS 设计之美](http://www.csszengarden.com/tr/zh-cn/)
  
@@ -73,8 +118,9 @@
 * [Color Hunt](http://colorhunt.co/)（CSS配色）
  
 * [Border Radius CSS Generator | CSSmatic](http://www.cssmatic.com/border-radius)
+* [oeasy教你玩转css禅意花园-慕课网](http://www.imooc.com/learn/603)
  
- **<a id="css"></a>CSS预处理器**
+**<a id="css"></a>CSS预处理器**
  
  * [sass入门 - sass教程](http://www.w3cplus.com/sassguide/)
  * [前端构建：Less入了个门 - ^_^肥仔John - 博客园](http://www.cnblogs.com/fsjohnhuang/p/4187675.html)
@@ -90,12 +136,11 @@
 * [百度前端技术学院](http://ife.baidu.com/2016/task/all)
 
 
-##<a id="javascript"></a> javascript
+##<a id="javascript"></a> Javascript
 
 * [FreeCodeCamp学习参考资料 ](https://zhuanlan.zhihu.com/p/22841310?refer=icode)
 
-* [HTML DOM 教程 | 菜鸟教程]
-(http://www.runoob.com/htmldom/htmldom-tutorial.html)
+* [HTML DOM 教程 | 菜鸟教程](http://www.runoob.com/htmldom/htmldom-tutorial.html)
 
 * [JavaScript教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 
@@ -123,11 +168,11 @@
 * [JS函数式编程指南中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)
 * [TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial)
 
-**javascript文章**
+**Javascript文章**
  
 * [这是一篇傻瓜都能看懂的Promises文章！ - Rachel的文章 - 知乎专栏](https://zhuanlan.zhihu.com/p/24684803)
 
-**javascript算法**
+**Javascript算法**
 
 * [十大经典排序算法(Javascript描述) - 前端进击者 - 知乎专栏](https://zhuanlan.zhihu.com/p/24050357)
 
@@ -135,6 +180,7 @@
 * [有哪些适合新手练手的前端项目？ - 学习编程 - 知乎专栏](https://zhuanlan.zhihu.com/p/22766255?refer=passer)
 
 * [Phodal's Idea实战指南 –](http://ideabook.phodal.com/)
+* [Github个人收集的优秀JavaScript项目](https://github.com/Daiyichen/Front-end-tutorial/blob/master/project.md)
 
 ##<a id="framework"></a> 框架
 * [Bootstrap 教程 | 菜鸟教程](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)
@@ -167,6 +213,7 @@
 4. 编写可维护的JavaScript
 5. [You-Dont-Know-JS: A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
 6. [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-fr.md)  (各种语言程序编程书籍）
+7. [http书籍](http://book.haoduoshipin.com/tealeaf-http/#chinese)
 
 ## <a id="design"></a>响应式设计
 
@@ -203,13 +250,14 @@
 * [Chrome DevTools之Timeline Tool简介 - Young.Z Coding&Tech - 知乎专栏](https://zhuanlan.zhihu.com/p/24759170)
 
 * [Chrome DevTools之Timeline Tool简介续 - Young.Z Coding&Tech - 知乎专栏](https://zhuanlan.zhihu.com/p/24769560?refer=youngz)
+
 ##<a id="francais"></a>法语学习 计算机词汇
 * [Comprendre le Web](https://openclassrooms.com/courses/comprendre-le-web)
 
 * [open classroom 的HTML5 CSS3教程](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/comment-fait-on-pour-creer-des-sites-web)
 
 
-##<a id="git"></a> git github
+##<a id="git"></a> Git Github
 * [Git Tutorial - Try Git](https://try.github.io/levels/1/challenges/2)(git 复习的好地方）
 
 * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -225,17 +273,24 @@
 * [Git权威指南 — GotGit](http://www.worldhello.net/gotgit/)
 
 * [GitHub 漫游指南- a Chinese ebook on how to build a good build on Github.](https://github.com/phodal/github-roam)
+* [程序员必备技能：在Github Pages上部署自己的简历 - 知乎专栏](https://zhuanlan.zhihu.com/p/22250197)
+* **Jekyll**
+ * [Liquid 语言基础 - 简书](http://www.jianshu.com/p/b11bc7b3306c)
+ * [liquid用法笔记 - Coffee coder - 博客频道 - CSDN.NET](http://blog.csdn.net/dont27/article/details/38097581)
+ * [Jekyll模板](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md#environment)
+ * [一步步在GitHub上创建博客主页](http://www.pchou.info/ssgithubPage/2013-01-09-build-github-blog-page-06.html)
+ * [头信息 - Jekyll 教程](http://wiki.jikexueyuan.com/project/jekyll/frontmatter.html)
+ * [利用github-pages建立个人博客 | EZLippi-浮生志](http://www.ezlippi.com/blog/2015/03/github-pages-blog.html)
 
 ## <a id="linux"></a>Linux
 * [初窥Linux 之 我最常用的20条命令 ](http://blog.csdn.net/ljianhui/article/details/11100625)
 
  * [快乐的 Linux 命令行
 ](http://billie66.github.io/TLCL/index.html)
-##<a id="web"></a> Web 
+
+##<a id="web"></a>Web 
 
 * [前端工程——基础篇 · Issue #10 · fouber/blog](https://github.com/fouber/blog/issues/10#)
-
-* [Web-Frontend-Introduction-And-Engineering-Practices/Frontend-From-Zero-To-Hero.md at master · wxyyxc1992/Web-Frontend-Introduction-And-Engineering-Practices](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Engineering-Practices/blob/master/Introduction/Frontend-From-Zero-To-Hero.md)
 
 * [Web-Frontend-Introduction-And-Engineering-Practices/Frontend-From-Zero-To-Hero.md at master · wxyyxc1992/Web-Frontend-Introduction-And-Engineering-Practices](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Engineering-Practices/blob/master/Introduction/Frontend-From-Zero-To-Hero.md)
 
@@ -271,11 +326,8 @@
 * [6周学习计划，攻克JavaScript难关(React/Redux/ES6 etc.) - 从零学习前端开发 - 知乎专栏](https://zhuanlan.zhihu.com/p/23412169?refer=icode) $$
 * [前端开发者手册 · Front-end Developer HandBook](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 * [Growth: 全栈增长工程师指南 –](http://growth.phodal.com/#os-x)
-
 * [非计算机专业出身的我是如何在两年内成长为前端工程师的 - 从零学习前端开发 - 知乎专栏](https://zhuanlan.zhihu.com/p/23272560?refer=icode)
-
 * [Introduction · 前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content/)
-
 * [Come on Baby! 你也可以成为Web开发工程师！——Web开发工程师完全成长指南 - 从零学习前端开发 - 知乎专栏](https://zhuanlan.zhihu.com/p/22978846?refer=icode)
 * [icepy/Front-End-Develop-Guide: 💰 Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。](https://github.com/icepy/Front-End-Develop-Guide#fed_log)
 * [helloqingfeng/Awsome-Front-End-learning-resource: GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
@@ -285,6 +337,8 @@
 * [pd4d10/js-stack-from-scratch: 从零开始构建 JavaScript 技术栈 - 中文版](https://github.com/pd4d10/js-stack-from-scratch)
 * [Web前端从入门菜鸟到实践老司机所需要的资料与指南合集 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000007611188)
 * [qiu-deqing/FE-learning: 结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning#%E9%A1%B9%E7%9B%AE%EF%BC%8C%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE)
+* [前端零基础学习提纲 - 撒玛利亚人 - 博客园](http://www.cnblogs.com/dolphinX/p/5181660.html)
+* [icepy/Front-End-Develop-Guide: 💰 Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。](https://github.com/icepy/Front-End-Develop-Guide)
 
 
 
@@ -300,6 +354,8 @@
 * [icepy/Front-End-Develop-Guide: 💰 Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。](https://github.com/icepy/Front-End-Develop-Guide)
 
 * [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)
+* [nieweidong/fetool: 大前端的瑞士军刀，只记录有用的](https://github.com/nieweidong/fetool)
+* [老司机程序员用到的各种优秀资料、神器及框架整理 - 知乎专栏](https://zhuanlan.zhihu.com/p/25233978)
 
 ##<a id="informatique"></a>计算机知识
 * [Intro to Computer Science - Udacity](https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/486985440923)
@@ -313,6 +369,10 @@
 
 ##<a id="excel"></a>Excel
 * [Analysez des données avec Excel](https://openclassrooms.com/courses/analysez-des-donnees-avec-excel)
+* [(80 条消息) 在日常生活中，你都用Excel帮你做些什么？ - 知乎](https://www.zhihu.com/question/27654558)
+* [(80 条消息) 我记录了3万小时的柳比歇夫时间记录，如何用Excel做统计？ - 知乎](https://www.zhihu.com/question/34389132)
+* [如何利用excel进行时间记录（下）](http://www.360doc.com/content/16/0519/02/32789078_560314033.shtml)
+* [如何利用excel进行时间记录（上）](https://sanwen8.cn/p/1aenWuE.html)
 
 ##<a id="blog"></a>程序员牛人
 * [GitHub中国区前100名到底是什么样的人？ - 优雅的程序员 - 博客园](http://www.cnblogs.com/diycodes/p/5361753.html)
@@ -320,6 +380,7 @@
 * [Search · location:china  github上面中国人排行](https://github.com/search?langOverride=&language=&o=desc&q=location%3Achina&repo=&s=followers&start_value=1&type=Users)
 
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+* [Love Light 王雷雷的博客](http://doubleray.win/)
 
 
 ##<a id="python"></a>Python
@@ -330,6 +391,7 @@
 
 ##<a id="interview"></a>前端面试
 * [关于前端面试 - Mingdong's blog](https://mdluo.github.io/blog/about-front-end-interview/)
+
 ##<a id="news"></a>技术新闻
 * [Hacker News](https://news.ycombinator.com/news?p=1)
 
@@ -339,11 +401,21 @@
 
 ## <a id="atom"></a>ATOM 教程
 * [Atom Packages](http://flight-manual.atom.io/using-atom/sections/atom-packages/)
+* [磨刀不误砍柴工，配置你的前端工作环境：Atom - 知乎专栏](https://zhuanlan.zhihu.com/p/24162407)
+* [front-end-study/磨刀不误砍柴工：Atom 介绍.md at master · CompileYouth/front-end-study](https://github.com/CompileYouth/front-end-study/blob/master/tool/atom/%E7%A3%A8%E5%88%80%E4%B8%8D%E8%AF%AF%E7%A0%8D%E6%9F%B4%E5%B7%A5%EF%BC%9AAtom%20%E4%BB%8B%E7%BB%8D.md)
 
 ## <a id="sublime"></a>Sublime text 教程
 * [前端开发工具技巧介绍—Sublime篇-慕课网](http://www.imooc.com/learn/40)
+* [前端开发必备！Emmet使用手册_Emmet 教程_w3cplus](https://www.w3cplus.com/tools/emmet-cheat-sheet.html)
+* [轻巧的编辑器：Sublime Text3 user设置 - 在思索中前行！ - 博客频道 - CSDN.NET](http://blog.csdn.net/txl199106/article/details/39646611)
+* [sublime 插件 Emmet（HTML/CSS代码快速编写神器） | rin部落-web前端开发-主流web技术分享博客](http://www.9958.pw/post/sublime_emmet)
 
 
 ##<a id="markdown"></a>Markdown
 * [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/index.html)
 *  [Introduction | Learning-Markdown (Markdown 入门参考)](http://xianbai.me/learn-md/index.html)
+
+##面试
+* [2016十家公司前端面试小记 - WEB前端 - 伯乐在线](http://web.jobbole.com/85156/)
+* [我是如何同时拿到阿里和腾讯offer的 - Web开发手记 - SegmentFault](https://segmentfault.com/a/1190000002627927)
+* [qiu-deqing/FE-interview: 收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
