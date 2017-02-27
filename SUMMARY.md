@@ -8,4 +8,5 @@
 * [Git](git.md)
  * [Github page](github-page.md)
  * [Jekyll ](jekyll.md)
-
+ * [Gitbook](gitbook.md)
+* [Linux常用命令](linux.md)
