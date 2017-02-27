@@ -1,4 +1,4 @@
-在MAC上面书写GITBOOK
+##在MAC上面书写GITBOOK
 
 * 首先git clone 到本地
 
@@ -32,3 +32,17 @@
   	```
   	
 	**第二种方法有问题， 待解决**
+
+## Gitbook 同步 github
+首先 安装 GitHub Integration， 在settings的github选项里安装
+
+![test](image/gitbook.png)
+
+然后在book里面的settings，同步书到github的项目，最好新建一个空的PROJET
+
+
+![test](image/gitbook1.png)
+	
+	
+**还有一种从github里面的项目建一个BOOK， 新建BOOK的时候选择github.**
+	
