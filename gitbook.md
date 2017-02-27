@@ -1,5 +1,4 @@
 ##在MAC上面书写GITBOOK
-
 * 首先git clone 到本地
 
   `git clone https://git.gitbook.com/visite/note-of-front-end.git`
