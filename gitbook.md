@@ -14,13 +14,8 @@
 	 
 	  username: visite
 	  apitoken 在这里取得，点击 generate token, 添加新的API TOKEN
-	    
+	
 	  ![test](image/apitoken.png)
-	  
-	
-	
-	
-	  
 	  
 	* 第二种 在根目录先建一个.netrc文件， 如果已经存在，直接在里面修改
 	
