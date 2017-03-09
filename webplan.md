@@ -7,6 +7,7 @@
 * **Projet** [Build a Tribute Page | Free Code Camp](https://www.freecodecamp.com/challenges/build-a-tribute-page) 
 	* [FreeCodeCamp学习参考资料](https://zhuanlan.zhihu.com/p/22841310?refer=icode)
 	* [Build a Tribute Page - YouTube](https://www.youtube.com/playlist?list=PLHdCowjFIBmLbdG9RGlCwpZF6Y_FaEVco)
+* 学习HTML5
 
 ##Javascript 部分
 * [JavaScript教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
